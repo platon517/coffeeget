@@ -24,4 +24,5 @@ https://play.google.com/store/apps/details?id=coffeeget.ru&hl=en_ZA&gl=US
 - MongoDB
 - AWS
 - Google Maps API
+- YooMoney (prev. Yandex Kassa) Payment system
 - PM2
