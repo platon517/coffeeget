@@ -1,6 +1,9 @@
 # CoffeeGet
 Buy your favorite coffee online
 
+## Video demo
+https://youtu.be/fEEfAHjkv14
+
 ## Demo tryout
 - **Phone number:** 99999 (or your actual phone number)
 - **SMS code:** 0000 (if using demo phone number)
