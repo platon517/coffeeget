@@ -10,6 +10,8 @@ Buy your favorite coffee online
   | ------------- |:-------------------:| :---:| :--:|
   | Master Card   | 5555 5555 5555 4444 | any  | any |
   | Visa          | 4111 1111 1111 1111 | any  | any |
+  
+- Geolocation is currently off due to demo porpusses
 
 ## App Store
 https://apps.apple.com/us/app/coffeeget/id1536047603
