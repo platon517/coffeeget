@@ -1,4 +1,4 @@
-# CoffeeGet
+# CoffeeGet (Servers are offline)
 Buy your favorite coffee online
 
 ## Video demo
